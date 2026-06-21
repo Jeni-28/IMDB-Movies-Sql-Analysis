@@ -244,26 +244,3 @@ The project includes data exploration, cleaning, SQL-based analysis, and interac
 
 This project demonstrates how SQL and Power BI can be combined to perform end-to-end data analysis. Through querying, data validation, and dashboard creation, valuable insights were generated regarding movie performance and director contributions.
 
-### Revenue Analysis
-
-![Revenue Analysis](screenshots/dashboard2.png)
-
-### Director Analysis
-
-![Director Analysis](screenshots/dashboard3.png)
-
----
-
-## 📄 Project Files
-
-* SQL Project Report
-* SQL Queries
-* Power BI Dashboard
-* Dashboard Screenshots
-* Project Requirement Document
-
----
-
-## 🚀 Conclusion
-
-This project demonstrates how SQL and Power BI can be combined to perform end-to-end data analysis. Through querying, data validation, and dashboard creation, valuable insights were generated regarding movie performance and director contributions.
