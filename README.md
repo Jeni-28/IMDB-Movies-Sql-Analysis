@@ -169,31 +169,6 @@ The project includes data exploration, cleaning, SQL-based analysis, and interac
 
 ---
 
-## 📊 Dashboard Features
-
-### KPI Cards
-
-* Total Movies - 47
-* Average Rating - 6.57
-* Total Revenue - 39bn
-* Total Directors - 2349
-
-### Visualizations
-
-* Top 10 Movies by Revenue
-* Top 10 Movies by Popularity
-* Movies Count by Year
-* Gender Distribution of Directors
-* Top Directors by Movie Count
-
-### Interactive Filters
-
-* Release Year
-* Director Name
-* Gender
-
----
-
 ## 🔍 SQL Analysis Performed
 
 1. Retrieve all movie records
