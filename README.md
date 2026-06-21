@@ -100,100 +100,12 @@ The project includes data exploration, cleaning, SQL-based analysis, and interac
 
 ## 📈 Key Insights
 
-* Revenue and ratings do not always have a direct relationship.
-* Female directors are underrepresented in the dataset.
-* Some directors have multiple movies while most have only one.
-* Movie popularity varies significantly across titles.
-* Movies released before 2000 generally show higher ratings.
-
----
-
-## 📷 Dashboard Screenshots
-
-### Main Dashboard
-
-# 🎬 IMDB Movies Analysis using SQL & Power BI
-
-## 📌 Project Overview
-
-This project analyzes the IMDB Movies dataset using SQL and Power BI to uncover insights related to movie popularity, revenue, ratings, and director performance.
-
-The project includes data exploration, cleaning, SQL-based analysis, and interactive dashboard visualization.
-
----
-
-## 🎯 Objectives
-
-* Analyze movie and director data using SQL
-* Perform data validation and cleaning
-* Extract meaningful business insights
-* Create interactive Power BI dashboards
-* Understand trends in popularity, revenue, and ratings
-
----
-
-## 🛠 Tools & Technologies
-
-* MySQL Workbench
-* SQL
-* Power BI
-* DAX
-* Power Query
-
----
-
-## 📂 Dataset Information
-
-### Directors Table
-
-| Column     | Description     |
-| ---------- | --------------- |
-| ID         | Director ID     |
-| Name       | Director Name   |
-| Gender     | Director Gender |
-| Department | Department      |
-
-### Movies Table
-
-| Column         | Description        |
-| -------------- | ------------------ |
-| ID             | Movie ID           |
-| Original_Title | Movie Name         |
-| Budget         | Movie Budget       |
-| Popularity     | Popularity Score   |
-| Release_Date   | Release Date       |
-| Revenue        | Revenue Generated  |
-| Vote_Average   | Average Rating     |
-| Vote_Count     | Number of Votes    |
-| Director_ID    | Director Reference |
-
----
-
-## 🔍 SQL Analysis Performed
-
-1. Retrieve all movie records
-2. Retrieve all director records
-3. Count total movies
-4. Find specific directors
-5. Directors whose names start with 'S'
-6. Count female directors
-7. Find the 10th female director
-8. Top 3 popular movies
-9. Top 3 highest revenue movies
-10. Highest rated movie after 2000
-11. Movies directed by Brenda Chapman
-12. Director with most movies
-13. Most bankable director
-
----
-
-## 📈 Key Insights
-
-* Revenue and ratings do not always have a direct relationship.
-* Female directors are underrepresented in the dataset.
-* Some directors have multiple movies while most have only one.
-* Movie popularity varies significantly across titles.
-* Movies released before 2000 generally show higher ratings.
+- Revenue and ratings do not always have a direct relationship; some high-revenue movies received moderate ratings.
+- Female directors are underrepresented in the dataset.
+- Most directors have only one movie in the dataset, while a few have multiple movies.
+- Movie popularity varies significantly across titles.
+- Movies released before 2000 tend to have higher average ratings.
+- Some directors have no associated movies in the dataset, highlighting data limitations.
 
 ---
 
